@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dimas Saputro</h1>
 
+<br>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/76572359/192977310-4dc903a2-7bf1-4848-a494-df95503b173a.gif" width="200"></img>
 </div>
 
+<br>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Mono&pause=1000&center=true&width=435&lines=Informatics+Students;Flutter+Developer;IT+Security+Enthusiast" alt="Typing SVG" /></a>
