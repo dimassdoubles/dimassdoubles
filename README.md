@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dimas Saputro</h1>
-<h3 align="center">Flutter Developer, IT Security Enthusiast</h3>
 
-<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/76572359/192977310-4dc903a2-7bf1-4848-a494-df95503b173a.gif" width="200"></img>
+</div>
+
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Mono&pause=1000&center=true&width=435&lines=Informatics+Students;Flutter+Developer;IT+Security+Enthusiast" alt="Typing SVG" /></a>
+</div>
+
+<hr>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimassdoubles&label=Profile%20views&color=0e75b6&style=flat" alt="kurniawanflix" /> </p>
 
 - I’m currently learning **Flutter Programming**
 
@@ -11,9 +21,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/dimassdoubles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dimassdoubles" height="30" width="35" /></a>
-<a href="https://linkedin.com/in/dimassdoubles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimassdoubles" height="30" width="40" /></a>
-<a href="https://twitter.com/dimassdoubles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dimassdoubles" height="30" width="40" /></a>
+<a href="https://instagram.com/dimassdoubles" target="blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
+
+<a href="https://www.linkedin.com/in/dimassdoubles" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+
+</a>
+<a href="https://twitter.com/dimassdoubles" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +44,4 @@
  
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dimassdoubles&show_icons=true&locale=en&theme=graywhite" alt="dimassdoubles" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dimassdoubles&show_icons=true&locale=en&theme=discord_old_blurple" alt="dimassdoubles" /></p>
