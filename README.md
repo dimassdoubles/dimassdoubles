@@ -14,7 +14,7 @@
 
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimassdoubles&label=Profile%20views&color=0e75b6&style=flat" alt="kurniawanflix" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimassdoubles&label=Profile%20views&color=0e75b6&style=flat" alt="dimassdoubles" /> </p>
 
 - I’m currently learning **Flutter Programming**
 
