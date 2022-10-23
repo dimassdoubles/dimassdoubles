@@ -18,7 +18,7 @@
 
 - I’m currently learning **Flutter Programming**
 
-- All of my projects are available at [https://dimassdoubles.vercel.app/](https://dimassdoubles.vercel.app/)
+- <a href="https://s3-ap-southeast-1.amazonaws.com/glints-dashboard/resume/5476603fa67823a970acae5ac2aec1b4.pdf">Curiculum Vitae</a>
 
 - How to reach me **codedimas@gmail.com**
 
