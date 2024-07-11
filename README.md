@@ -16,11 +16,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimassdoubles&label=Profile%20views&color=0e75b6&style=flat" alt="dimassdoubles" /> </p>
 
-- **Flutter Developer**
+- **Software Developer [Flutter, React, Laravel, Rust]**
 
 - <a href="https://s3-ap-southeast-1.amazonaws.com/glints-dashboard/resume/5476603fa67823a970acae5ac2aec1b4.pdf">Curiculum Vitae</a>
 
-- How to reach me **codedimas@gmail.com**
+- How to reach me **dimassaputro.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
